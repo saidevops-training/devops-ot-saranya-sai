@@ -4,5 +4,6 @@
 # This is a helloworld shell script
 
 echo "$1, $2"
-echo "Hello, Welcome to Shell Programming"
+echo "Welcome to Shell Programming"
+echo "From Github account"
 
